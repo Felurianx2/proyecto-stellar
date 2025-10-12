@@ -25,6 +25,7 @@ Genera un nuevo par de llaves (public key y secret key) y fondea la cuenta con 1
 node enviar-pago.js
 ```
 Envía XLM desde una cuenta hacia otra.
+
 ⚠️ Importante: Edita el archivo enviar-pago.js y reemplaza:
 
 SECRET_KEY con tu secret key de la cuenta origen
@@ -35,6 +36,7 @@ DESTINATION con la public key de la cuenta destino
 node consultar-balance.js
 ```
 Consulta el balance de una cuenta en la testnet de Stellar.
+
 ⚠️ Importante: Edita el archivo consultar-balance.js y reemplaza publicKey con la cuenta que deseas consultar.
 🔒 Seguridad
 
