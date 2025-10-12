@@ -38,6 +38,28 @@ Consulta el balance de una cuenta en la testnet de Stellar.
 ⚠️ Importante: Edita el archivo consultar-balance.js y reemplaza publicKey con la cuenta que deseas consultar.
 🔒 Seguridad
 
+## Algunos scripts más avanzados
+1. Crear cuentas masivas
+```bash
+node crear-cuentas-masivas.js
+```
+Te permite crear 5 cuentas, que son fondeadas con Friendbot. Muestra en consola: public key, secret key y
+balance inicial de cada una y guarda toda la información en un array.
+
+2. Enviar pagos masivos
+```bash
+node enviar-pagos-masivos.js
+```
+Puedes enviar XLM a cuentas diferentes en una sola ejecución, cada pago es identificado con el memo,
+verifica el status de cada transacción antes de continuar con la próxima y muestra el hash de cada transacción.
+
+3. Monitor de balances
+```bash
+node monitor-balances.js
+```
+Es un monitor que verifica balances de múltiples cuentas.
+
+Importante:
 ❌ NUNCA compartas tu SECRET KEY
 ✅ Solo trabaja en TESTNET para aprender
 ✅ Las secret keys en este repositorio son solo para fines educativos
