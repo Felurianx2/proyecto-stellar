@@ -37,8 +37,7 @@ node consultar-balance.js
 ```
 Consulta el balance de una cuenta en la testnet de Stellar.
 
-⚠️ Importante: Edita el archivo consultar-balance.js y reemplaza publicKey con la cuenta que deseas consultar.
-🔒 Seguridad
+⚠️ Importante: Edita el archivo consultar-balance.js y reemplaza publicKey con la cuenta que deseas consultar.🔒
 
 ## Algunos scripts más avanzados
 1. Crear cuentas masivas
@@ -63,7 +62,9 @@ Es un monitor que verifica balances de múltiples cuentas.
 
 Importante:
 ❌ NUNCA compartas tu SECRET KEY
+
 ✅ Solo trabaja en TESTNET para aprender
+
 ✅ Las secret keys en este repositorio son solo para fines educativos
 
 📚 Recursos
