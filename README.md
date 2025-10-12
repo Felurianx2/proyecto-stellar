@@ -65,7 +65,6 @@ Importante:
 
 ✅ Solo trabaja en TESTNET para aprender
 
-✅ Las secret keys en este repositorio son solo para fines educativos
 
 📚 Recursos
 
