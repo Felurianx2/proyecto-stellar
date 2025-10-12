@@ -46,7 +46,6 @@ Consulta el balance de una cuenta en la testnet de Stellar.
 
 - [Stellar Developers](https://developers.stellar.org/)
 - [JavaScript SDK](https://github.com/stellar/js-stellar-sdk)
-- [Stellar Laboratory](https://laboratory.stellar.org/)
 - [Stellar Expert (Testnet)](https://stellar.expert/explorer/testnet)
 
 👩‍💻 Autora
