@@ -65,6 +65,13 @@ Importante:
 
 ✅ Solo trabaja en TESTNET para aprender
 
+## 🦈 Contratos Soroban
+
+Este proyecto también incluye contratos inteligentes desarrollados en Rust usando Soroban SDK:
+
+- **hello-tiburona/**: Contrato profesional Hello Tiburona con funcionalidades avanzadas
+
+Para más información sobre el contrato, consulta el [README hello-tiburona](./hello-tiburona/README.md).
 
 📚 Recursos
 
